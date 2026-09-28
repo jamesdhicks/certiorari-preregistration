@@ -1,5 +1,7 @@
 # Preregistration: Predicting Certiorari at the Supreme Court of the United States (Conference of September 28, 2026)
 
+**Authors:** [James Hicks](https://www.jameshicks.io), Washington University, and [Tejas Narechania](https://www.tejasnarechania.net), University of California, Berkeley
+
 ### Overview
 
 We forecast the likelihood that the Supreme Court will grant each paid petition for a writ of certiorari distributed for its September 28, 2026 conference, and preregister those forecasts before the Court acts on any of them.
