@@ -1,0 +1,241 @@
+Docket Number,Case Name,p_grant,predicted at UTC,request sha,Model,Effort
+25-882,"Andrew D. Parker, et al., Petitioners v. Bill Gates, as a Member of the Maricopa County Board of Supervisors, et al",0.1,2026-09-28T03:11:53.999752+00:00,6b195bee2f8b1702,claude-fable-5,high
+25-901,"Benancio Garcia, III, Petitioner v. Steven Hobbs, Secretary of State of Washington, et al",0.1,2026-09-28T03:11:56.820159+00:00,2219fc3fa422e8d7,claude-fable-5,high
+25-918,"Jose A. Trevino, et al., Petitioners v. Steven Hobbs, Secretary of State of Washington, et al",0.2,2026-09-28T03:11:55.309600+00:00,044973a608766ab7,claude-fable-5,high
+25-1030,"Christopher R. Cummins, Petitioner v. Illinois",0.01,2026-09-28T03:11:47.938069+00:00,48146a5634b25f7e,claude-fable-5,high
+25-1061,"Holly Ann Elkins, Petitioner v. United States",0.04,2026-09-28T03:11:50.177033+00:00,17289c97caf4e18e,claude-fable-5,high
+25-1062,"Jessica Pitts, Officer, et al., Petitioners v. Taylor Burke, as Special Administrator of the Estate of Thomas Gay, Deceased",0.06,2026-09-28T03:11:51.206091+00:00,94802f36209aae99,claude-fable-5,high
+25-1070,"AstraZeneca Pharmaceuticals LP, et al., Petitioners v. Mosaic Health, Inc., et al",0.22,2026-09-28T03:11:54.799474+00:00,230b4a12ecb5e542,claude-fable-5,high
+25-1089,"Fairfield Sentry Ltd., et al., Petitioners v. Citibank NA London, et al",0.13,2026-09-28T03:11:53.488282+00:00,a756bb3991f0fd63,claude-fable-5,high
+25-1091,"Davie County, North Carolina, et al., Petitioners v. Juiliana Swink, Administratrix of the Estate of David Ray Gunter, et al",0.07,2026-09-28T03:11:55.346139+00:00,1dc6c79321fe3140,claude-fable-5,high
+25-1098,"Ryan O'Donnell, et al., Petitioners v. City of Chicago, Illinois, et al",0.05,2026-09-28T03:11:56.333317+00:00,f12c6e181524fab5,claude-fable-5,high
+25-1099,"Quashaun Melsun Reel, Petitioner v. North Carolina",0.06,2026-09-28T03:11:58.115230+00:00,a75b0dffd79bb87e,claude-fable-5,high
+25-1103,"U.S. Doge Service, et al., Petitioners v. United States District Court for the District of Columbia, et al",0.88,2026-09-28T03:11:57.761178+00:00,468652bd92409d71,claude-fable-5,high
+25-1105,"Frank Thompson, Petitioner v. Carl Wilson, Commissioner, Maine Department of Marine Resources",0.1,2026-09-28T03:12:00.825817+00:00,abd8e70294049865,claude-fable-5,high
+25-1108,"Christopher Zook, et al., Petitioners v. Scott Fuqua",0.08,2026-09-28T03:12:02.011455+00:00,c02853871fbedb32,claude-fable-5,high
+25-1115,"Utah, Petitioner v. Morris Thomas Mullins",0.08,2026-09-28T03:12:05.115706+00:00,69208cf5427dde2e,claude-fable-5,high
+25-1123,"Kevin Steele, Petitioner v. Douglas A. Collins, Secretary of Veterans Affairs",0.045,2026-09-28T03:12:04.924624+00:00,822d528e5a8d0434,claude-fable-5,high
+25-1128,"Ronnie Alexander, Petitioner v. Philip R. Taft Psy D and Associates, P.L.L.C., et al",0.05,2026-09-28T03:12:01.534929+00:00,5ee26986b8b552c1,claude-fable-5,high
+25-1130,"Cherry Grove Beach Gear, LLC, et al., Petitioners v. City of North Myrtle Beach, South Carolina",0.02,2026-09-28T03:12:01.313205+00:00,286f42aadcc5eedc,claude-fable-5,high
+25-1131,"Missionaries of Saint John the Baptist, Inc., Petitioner v. Joel Frederic, et ux",0.42,2026-09-28T03:12:05.979544+00:00,7c0914f89273bc17,claude-fable-5,high
+25-1141,"Jason Tywann Bell, Petitioner v. John Gilley, Warden",0.25,2026-09-28T03:12:09.248343+00:00,5d953f46fd534e0c,claude-fable-5,high
+25-1142,"Mark Zavislak, Petitioner v. Netflix, Inc",0.07,2026-09-28T03:12:09.468143+00:00,60847574e0f17fb7,claude-fable-5,high
+25-1143,"D. A., a Minor, By and Through his Mother, B. A., et al., Petitioners v. Tri County Area Schools, et al",0.15,2026-09-28T03:12:08.720073+00:00,5045ad8d7d33a7db,claude-fable-5,high
+25-1144,"Daisey Trust, By and Through Its Trustee Eddie Haddad, et al., Petitioners v. Federal Housing Finance Agency, et al",0.03,2026-09-28T03:12:07.798141+00:00,862cdabafb46904b,claude-fable-5,high
+25-1145,"Council For Responsible Nutrition, Petitioner v. Letitia James, in Her Official Capacity as New York Attorney General",0.06,2026-09-28T03:12:06.805504+00:00,38416c27ed01d98b,claude-fable-5,high
+25-1146,"Angelo Pesavento, et al., Petitioners v. Eddie L. Bolden",0.06,2026-09-28T03:12:11.953767+00:00,e43a6db62c79ffdd,claude-fable-5,high
+25-1148,"Parker C. Myslow, Petitioner v. United States",0.005,2026-09-28T03:12:09.655240+00:00,fa68f7f460bbee8a,claude-fable-5,high
+25-1158,"Amy Hadley, Petitioner v. City of South Bend, Indiana, et al",0.3,2026-09-28T03:12:14.490386+00:00,c39edc1de5eb7473,claude-fable-5,high
+25-1163,"Carlos Pena, Petitioner v. City of Los Angeles, California",0.22,2026-09-28T03:12:15.474577+00:00,8089995c80b17fe2,claude-fable-5,high
+25-1170,"Winnemucca Indian Colony, Petitioner v. United States",0.02,2026-09-28T03:12:12.837102+00:00,9b175b9e9538324b,claude-fable-5,high
+25-1176,"Marion Alexander Lindsey, Petitioner v. South Carolina",0.04,2026-09-28T03:12:14.993986+00:00,5c1d3c143c7ab5b7,claude-fable-5,high
+25-1191,"Michael Joseph Gasper, Petitioner v. Wisconsin",0.05,2026-09-28T03:12:16.925235+00:00,55f814bf8cf27eae,claude-fable-5,high
+25-1192,"PG Publishing Company, Inc., dba Pittsburgh Post-Gazette, Petitioner v. National Labor Relations Board, et al",0.03,2026-09-28T03:12:15.265922+00:00,dfad013c126db61b,claude-fable-5,high
+25-1195,"John David Trice, Petitioner v. Texas",0.02,2026-09-28T03:12:14.209647+00:00,d3305d2fc8146fc0,claude-fable-5,high
+25-1197,"Brandi Greer, Petitioner v. Benton School District",0.2,2026-09-28T03:12:20.420199+00:00,db08ebac0e78a86e,claude-fable-5,high
+25-1199,"Fred Davis Clark, Jr., Petitioner v. United States",0.02,2026-09-28T03:12:19.020860+00:00,345f4cca1c4b2cc3,claude-fable-5,high
+25-1201,"National Small Business United, dba National Small Business Association, et al., Petitioners v. Scott Bessent, Secretary of the Treasury, et al",0.12,2026-09-28T03:12:22.337764+00:00,db3261ef6a284253,claude-fable-5,high
+25-1205,"Michael Mendenhall, Petitioner v. City and County of Denver, Colorado",0.05,2026-09-28T03:12:22.760657+00:00,fd940d443d6de6c7,claude-fable-5,high
+25-1208,"Norfolk Southern Railway Company, Petitioner v. Robert Willmore Mallory, as Administrator of the Estate of Robert Thurston Mallory, et al",0.32,2026-09-28T03:12:27.893225+00:00,01bd2faa4d84d111,claude-fable-5,high
+25-1210,"David Petersen, et al., Petitioners v. Snohomish Regional Fire and Rescue",0.6,2026-09-28T03:12:20.882178+00:00,b2b76c7d1f7da32b,claude-fable-5,high
+25-1215,"Mark B. Cohen, Petitioner v. Judicial Conduct Board of Pennsylvania",0.08,2026-09-28T03:12:24.423037+00:00,cc80ec460b229c84,claude-fable-5,high
+25-1219,"United States, Petitioner v. Charles Hembree",0.87,2026-09-28T03:12:21.619461+00:00,05ebace5b5b1592f,claude-fable-5,high
+25-1240,"Azadeh Khatibi, et al., Petitioners v. Felix C. Yip, President of the Medical Board of California, et al",0.35,2026-09-28T03:12:28.702500+00:00,537ea5d64c790931,claude-fable-5,high
+25-1242,"Denise Hughes, as Administrator of the Estate of Edwin Dewayne Moss, Petitioner v. Monique N. Locure, Administratrix of the Estate of Darian K. Locure",0.035,2026-09-28T03:12:25.675054+00:00,e0aeb8113f7d04dc,claude-fable-5,high
+25-1243,"Nexstar Media Group, Inc., et al., Petitioners v. DirecTV, LLC",0.13,2026-09-28T03:12:35.750256+00:00,740102e3bc838c67,claude-fable-5,high
+25-1246,"Richard Vasquez, Petitioner v. Eric Guerrero, Director, Texas Department of Criminal Justice, Correctional Institutions Division",0.03,2026-09-28T03:12:32.923843+00:00,82d615fab8cc9ad2,claude-fable-5,high
+25-1248,"Rio Grande Foundation, Petitioner v. Maggie Toulouse Oliver, in Her Official Capacity as Secretary of State of New Mexico",0.13,2026-09-28T03:12:31.373869+00:00,74ae45ceeb8faf43,claude-fable-5,high
+25-1250,"Karina Sigalovskaya, Petitioner v. Abigail Braden, Individually and in Her Official Capacity as a Special Agent for the Department of Homeland Security",0.05,2026-09-28T03:12:31.368061+00:00,98451a75186378c6,claude-fable-5,high
+25-1254,"Judith L. Harvey, as Trustee of the David T. & Judith L. Harvey Trust, and as Personal Representative of the Estate of David T. Harvey, Deceased, Petitioner v. City of Reno, Nevada, et al",0.002,2026-09-28T03:12:30.710637+00:00,dc319dd11ffa8b36,claude-fable-5,high
+25-1256,"Petróleos de Venezuela, S.A., et al., Petitioners v. Helmerich & Payne International Drilling Co",0.2,2026-09-28T03:12:36.283052+00:00,78c72e9729163677,claude-fable-5,high
+25-1262,"Gabriella Victoria Oropesa, Petitioner v. United States",0.03,2026-09-28T03:12:35.450419+00:00,c5c881796d6e0208,claude-fable-5,high
+25-1263,"Ricky Darnell Patterson, Petitioner v. Michigan",0.001,2026-09-28T03:12:32.481642+00:00,c7e28e69aa1ef644,claude-fable-5,high
+25-1269,"Burford German Funding LLC, et al., Petitioners v. financialright claims GmbH",0.4,2026-09-28T03:12:42.942830+00:00,646228c8e081089c,claude-fable-5,high
+25-1274,"Michael St. Clair, Petitioner v. Willis Pettit, Warden",0.005,2026-09-28T03:12:36.427468+00:00,7497907951cc79b6,claude-fable-5,high
+25-1277,"Scott R. Williams, Petitioner v. Pennsylvania",0.008,2026-09-28T03:12:35.903043+00:00,dea22bacf15112bb,claude-fable-5,high
+25-1284,"Mario Dion Woodward, Petitioner v. Alabama",0.03,2026-09-28T03:12:37.492847+00:00,a324854e446e4071,claude-fable-5,high
+25-1285,"Moneesha Kamani, Petitioner v. Michael A. Stone, DVM, and His Marital Community/Domestic Partnership, et al",0.001,2026-09-28T03:12:37.123746+00:00,056cc8dc325777f3,claude-fable-5,high
+25-1287,"N. R., et al., Petitioners v. Keith M. Ellison, Attorney General of Minnesota, et al",0.08,2026-09-28T03:12:43.983457+00:00,baa66cacde9f4de4,claude-fable-5,high
+25-1288,"Wisconsin Voter Alliance, et al., Petitioners v. Don M. Millis, Commissioner, Wisconsin Elections Commission, et al",0.01,2026-09-28T03:12:40.121963+00:00,6d766f7aaea3500c,claude-fable-5,high
+25-1289,"Tomasa Gabriella Bolanos-Reynoso, Petitioner v. Department of Agriculture",0.003,2026-09-28T03:12:39.951555+00:00,991268f3fe005d5b,claude-fable-5,high
+25-1290,"Texas Top Cop Shop, Incorporated, et al., Petitioners v. Todd Blanche, Attorney General, et al",0.06,2026-09-28T03:12:45.102264+00:00,32c878ae8235c8dd,claude-fable-5,high
+25-1292,"Yesit Campo, as Personal Representative of the Estate of Arlevys Molina, et al., Petitioners v. Uber Technologies, Inc., et al",0.001,2026-09-28T03:12:40.116542+00:00,d92680210c762757,claude-fable-5,high
+25-1294,"F.E.B. Corp., Petitioner v. United States",0.005,2026-09-28T03:12:41.019114+00:00,450a4677533cf16a,claude-fable-5,high
+25-1295,"Donovan Moore, et al., Petitioners v. Ashly Romero, as Personal Representative for the Estate of Stephen Romero, Deceased, et al",0.25,2026-09-28T03:12:47.854651+00:00,4eefab6e31cbded0,claude-fable-5,high
+25-1298,"Patrice Honeycutt, Petitioner v. JPMorgan Chase Bank, N.A., et al",0.002,2026-09-28T03:12:43.648849+00:00,46949235d45c1a17,claude-fable-5,high
+25-1299,"Citizens Alliance for Government Integrity, Petitioner v. York County, By and Through Its Manager, Joshua Edwards, et al",0.002,2026-09-28T03:12:44.054992+00:00,015224fcf510abc2,claude-fable-5,high
+25-1307,"Christy Ann Martin, Petitioner v. John Fredrick Martin",0.015,2026-09-28T03:12:44.564590+00:00,7ec6bab142c5214d,claude-fable-5,high
+25-1310,"Alvin B. White, Individually and as Trustee for the White Revocable Living Trust dated January 6, 2010, Petitioner v. U.S. Bank National Association, as Legal Title Trustee for Truman 2016 SC6 Title Trust",0.001,2026-09-28T03:12:44.753036+00:00,9183996afb211aed,claude-fable-5,high
+25-1312,"Dexter Payne, Director, Arkansas Division of Correction, Petitioner v. Harl A. Garrett",0.35,2026-09-28T03:12:51.218295+00:00,a28fa88d0ab1152e,claude-fable-5,high
+25-1313,"Alex Cantero, et al., Individually and on Behalf of All Others Similarly Situated, Petitioners v. Bank of America, N.A",0.6,2026-09-28T03:12:53.113336+00:00,9bba8f956b294a33,claude-fable-5,high
+25-1314,"Eric Gomez, Petitioner v. David Saccoccio",0.12,2026-09-28T03:12:55.320289+00:00,fd7fd145b2768e5c,claude-fable-5,high
+25-1316,"Donnie Ray Pearson, Petitioner v. Eric Guerrero, Director, Texas Department of Criminal Justice, Correctional Institutions Division",0.01,2026-09-28T03:12:48.730872+00:00,2e4d4834151dff39,claude-fable-5,high
+25-1317,"Melanie Crites-Bachert, Petitioner v. Providence Health & Services - Oregon",0.003,2026-09-28T03:12:48.424879+00:00,e6d9bc6c66061873,claude-fable-5,high
+25-1318,"Erik Charles Maund, aka Erik Moore, Petitioner v. United States",0.04,2026-09-28T03:12:50.908938+00:00,ead853d13f77c603,claude-fable-5,high
+25-1319,"Nita Patel, et vir, Petitioner v. United States",0.015,2026-09-28T03:12:49.810829+00:00,7be480c8dda9d6e0,claude-fable-5,high
+25-1320,"John Rogne, Petitioner v. City of Catoosa, Oklahoma",0.003,2026-09-28T03:12:51.612751+00:00,14ef6671d9d3fe45,claude-fable-5,high
+25-1321,"Kevin Scott Karsjens, Individually and on Behalf of All Others Similarly Situated, et al., Petitioners v. Shireen Gandhi, et al",0.008,2026-09-28T03:12:54.014936+00:00,fd12c2cb65abe85e,claude-fable-5,high
+25-1322,"Majestic Realty Co., et al., Petitioners v. Alex Salazar",0.06,2026-09-28T03:12:55.367860+00:00,f1a085680707ef81,claude-fable-5,high
+25-1323,"City of Bossier City, Louisiana, Petitioner v. Richard Hershey, et al",0.3,2026-09-28T03:12:56.420006+00:00,4eb6e0e28d1f91cb,claude-fable-5,high
+25-1327,"Jane Elizabeth Roberts, et al., Petitioners v. Bob Ferguson, Governor of Washington, et al",0.01,2026-09-28T03:12:55.529968+00:00,eefd9734a3952b8e,claude-fable-5,high
+25-1329,"Wealthy, Inc., et al., Petitioners v. Spencer Cornelia, et al",0.05,2026-09-28T03:12:56.757496+00:00,ee0b85aa26082cba,claude-fable-5,high
+25-1330,"Ramesh Sunny Balwani, Petitioner v. United States",0.015,2026-09-28T03:12:57.866073+00:00,29ce1b7d1c63fdb6,claude-fable-5,high
+25-1333,"Mark A. Pitzka, Petitioner v. Wisconsin",0.002,2026-09-28T03:12:56.862222+00:00,d2e906a00a50f324,claude-fable-5,high
+25-1334,"Colorado Bondshares, et al., Petitioners v. Marin Metropolitan District, et al",0.005,2026-09-28T03:12:57.570643+00:00,7d8945de2d1bfbd6,claude-fable-5,high
+25-1336,"Stephanie M. Redding, Petitioner v. Markwayne Mullin, Secretary of Homeland Security",0.005,2026-09-28T03:12:59.237465+00:00,a0350c1170b0718b,claude-fable-5,high
+25-1337,"Bryan Pesta, Petitioner v. Laura Bloomberg, Individually and as President, Cleveland State University, et al",0.005,2026-09-28T03:12:59.196453+00:00,06000139a251017a,claude-fable-5,high
+25-1338,"Jonathan Granado, Petitioner v. Juanita Ramirez, Individually and as Personal Representative of the Estate of Estevan Ramirez",0.1,2026-09-28T03:13:03.525326+00:00,d785c95adcf5e06f,claude-fable-5,high
+25-1339,"David Greene, Jr., et al., Petitioners v. Kansas Department of Revenue, et al",0.008,2026-09-28T03:13:01.132563+00:00,11c7b88b36d4e89b,claude-fable-5,high
+25-1340,"Blessing Nwosu, Petitioner v. 1600 West Loop South, L.L.C., et al",0.003,2026-09-28T03:13:00.671437+00:00,96a1cfe97282d5f4,claude-fable-5,high
+25-1343,"Todd Blanche, Attorney General, Petitioner v. Izuchukwu Ozurumba",,,,,
+25-1346,"Michael Webb, Petitioner v. Edmund Trombley, Corrections Officer, Great Meadow Correctional Facility, et al",0.03,2026-09-28T03:13:02.363786+00:00,ffe57780422e2228,claude-fable-5,high
+25-1347,"Miguel Angel Delgado, Jr., Petitioner v. United States",0.01,2026-09-28T03:13:01.561410+00:00,0d456c928be4c2ea,claude-fable-5,high
+25-1348,"Patrick Harrington, Individually and as Prosecutor of Tippecanoe County, Indiana, et al., Petitioners v. Randall Martin",0.2,2026-09-28T03:13:05.959072+00:00,885de26fbe5d6fd8,claude-fable-5,high
+25-1349,"Roxane M. Marschner, Petitioner v. Richard A. Marschner",0.2,2026-09-28T03:13:07.659841+00:00,0cb87e34f08f19a6,claude-fable-5,high
+25-1350,"Flagstar Bank, N.A., Petitioner v. William Kivett, et al",0.8,2026-09-28T03:13:06.400386+00:00,23a3dcdbf8e7ca4d,claude-fable-5,high
+25-1351,"Katrina Parker, Petitioner v. New Jersey Motor Vehicle Commission, et al",0.02,2026-09-28T03:13:05.329461+00:00,93e2bbf6718b1883,claude-fable-5,high
+25-1352,"Deborah Kollman, as Executor of the Estate of Stephanie A. Smith, Petitioner v. Mercy Health-Clermont Hospital, LLC, et al",0.03,2026-09-28T03:13:07.242685+00:00,8103fbf8e7798e3e,claude-fable-5,high
+25-1354,"William J. Shelton, Petitioner v. Cuyahoga Metropolitan Housing Authority, et al",0.01,2026-09-28T03:13:06.597041+00:00,4e64ff884c2a9fc1,claude-fable-5,high
+25-1355,"City of North Las Vegas, Nevada, et al., Petitioners v. Genoa Jones, et al",0.15,2026-09-28T03:13:10.819964+00:00,93b8b9da889f4883,claude-fable-5,high
+25-1356,"Walter A. Bernard, Petitioner v. Philip A. Ignelzi, Individually and as Judge, Court of Common Pleas, Allegheny County, Pennsylvania",0.015,2026-09-28T03:13:08.742386+00:00,209f74e1de3c7eda,claude-fable-5,high
+25-1357,"William T. Cooley, Petitioner v. United States",0.005,2026-09-28T03:13:09.108449+00:00,a4d1dc08520cc3a7,claude-fable-5,high
+25-1358,"NHK Spring Co., Ltd., et al., Petitioners v. Seagate Technology LLC, et al",0.06,2026-09-28T03:13:14.230277+00:00,fb127e71e6dbb4ad,claude-fable-5,high
+25-1359,"TitleMax of Virginia, Inc., et al., Petitioners v. Wendy S. Spicher, Secretary, Pennsylvania Department of Banking and Securities",0.1,2026-09-28T03:13:15.621153+00:00,2c6f728d14feffad,claude-fable-5,high
+25-1360,"Cade Brumley, Superintendent, Louisiana State Education, et al., Petitioners v. Darcy Roake, Reverend, Individually and on Behalf of Their Minor Children, Real Parties in Interest A. V. and S. V., et al",0.12,2026-09-28T03:13:21.385537+00:00,787998a4759c930c,claude-fable-5,high
+25-1361,"Steve Snyder, et al., Petitioners v. Village of Luckey, Ohio",0.008,2026-09-28T03:13:10.877240+00:00,23171cf6d5a4519c,claude-fable-5,high
+25-1363,"Gregory Allen Bonnie, Petitioner v. Dunbar, Warden",0.04,2026-09-28T03:13:14.403921+00:00,3465ec69e0ff1744,claude-fable-5,high
+25-1364,"Ricky Z. Barlow, Petitioner v. United States",0.003,2026-09-28T03:13:14.433098+00:00,2891dc8ce39efa48,claude-fable-5,high
+25-1365,"Zillow Group, Inc., et al., Petitioners v. Jeremy Jaeger, Individually and on Behalf of All Others Similarly Situated",0.15,2026-09-28T03:13:17.079035+00:00,965772eb6d2e2ae4,claude-fable-5,high
+25-1369,"Black Farmers and Agriculturalists Association, Inc., et al., Petitioners v. Brooke L. Rollins, Secretary of Agriculture, et al",0.005,2026-09-28T03:13:15.050368+00:00,c7ccde42ec7848e7,claude-fable-5,high
+25-1373,"Trinseo Europe GmbH, Petitioner v. Kellogg Brown & Root, L.L.C., et al",0.03,2026-09-28T03:13:16.566888+00:00,452e97dd5b2ac581,claude-fable-5,high
+25-1375,"Eugene N. Bolin, Jr., Petitioner v. Keystone RV Company",0.005,2026-09-28T03:13:17.242622+00:00,6aff00022fdb08a1,claude-fable-5,high
+25-1376,"ON24, Inc., et al., Petitioners v. Leadersel Innotech ESG",0.15,2026-09-28T03:13:24.136754+00:00,fb008839310dbfaf,claude-fable-5,high
+25-1378,"Jacqueline Colson, Petitioner v. Hennepin County, Minnesota",0.02,2026-09-28T03:13:19.136375+00:00,b431a966913feac9,claude-fable-5,high
+25-1383,"Indian Harbor Insurance Company, et al., Petitioners v. Town of Vinton, Louisiana, et al",0.4,2026-09-28T03:13:23.916377+00:00,2dfddae1cafdaf36,claude-fable-5,high
+25-1384,"Jerry Wayne Beane, Petitioner v. United States",0.003,2026-09-28T03:13:19.274142+00:00,e85fd1f336b1a5b3,claude-fable-5,high
+25-1385,"Endure Industries, Incorporated, Petitioner v. Vizient Incorporated, a Delaware corporation, et al",0.02,2026-09-28T03:13:21.201496+00:00,a2d5c6baf73b942b,claude-fable-5,high
+25-1387,"Sunoco Partners Marketing & Terminals L.P., Petitioner v. Powder Springs Logistics, LLC, et al",0.03,2026-09-28T03:13:21.970441+00:00,2d417fe9e378108a,claude-fable-5,high
+25-1388,"United Biologics, LLC, dba United Allergy Services, Petitioner v. Amerigroup Tennessee, Inc., dba Amerigroup Community Care, et al",0.11,2026-09-28T03:13:25.491511+00:00,eeca3a91874d01a6,claude-fable-5,high
+25-1389,"Richard Hershey, Petitioner v. City of Bossier City, Louisiana, et al",0.4,2026-09-28T03:13:27.593578+00:00,eb5654ff500f52a4,claude-fable-5,high
+25-1397,"Naicom Corporation, et al., Petitioners v. DISH Network Corporation, et al",0.006,2026-09-28T03:13:23.806135+00:00,fe524a8c7000ed6e,claude-fable-5,high
+25-1398,"Ernest F. Mitchell, Petitioner v. Hung Cao, Acting Secretary of the Navy",0.008,2026-09-28T03:13:25.301908+00:00,ac89f121e6b74ff5,claude-fable-5,high
+25-1399,"Jamar M. Davis, Petitioner v. United States",0.02,2026-09-28T03:13:25.652171+00:00,1f8ec08d813b4433,claude-fable-5,high
+25-1400,"Scott Troogstad, et al., Petitioners v. City of Chicago, Illinois",0.003,2026-09-28T03:13:25.929059+00:00,eb5d6b86e436615d,claude-fable-5,high
+25-1402,"Kimberly R. Sweidy, Petitioner v. Spring Ridge Academy, an Arizona Corporation, et al",0.001,2026-09-28T03:13:27.700079+00:00,107f03e3ec2874bd,claude-fable-5,high
+25-1404,"StandWithUs Center for Legal Justice, et al., Petitioners v. Massachusetts Institute of Technology",0.16,2026-09-28T03:13:32.969183+00:00,f526d7cd9a2d8aea,claude-fable-5,high
+25-1406,"Emily Laughlin, Petitioner v. Miami-Dade County, Florida",0.01,2026-09-28T03:13:30.138205+00:00,56f1d29796b86a8f,claude-fable-5,high
+25-1408,"Goldman Sachs Bank USA, dba Marcus by Goldman Sachs, Petitioner v. Rhea Ann Brown, et al",0.35,2026-09-28T03:13:34.347853+00:00,594d1e582ae42c3b,claude-fable-5,high
+25-1409,"Marmic, LLC, et al., Petitioners v. Sergio Lopez",0.01,2026-09-28T03:13:30.070508+00:00,8eaf1de3e1d99680,claude-fable-5,high
+25-1415,"Matthew Putra, Director of the Detroit Field Office of U.S. Immigration and Customs Enforcement, et al., Petitioners v. Juan Manuel Lopez-Campos, et al",,,,,
+25-1418,"El Centro del Barrio, dba CentroMed, Petitioner v. Arturo Gonzalez",0.04,2026-09-28T03:13:34.059472+00:00,08283911117f189f,claude-fable-5,high
+25-1419,"G. W., a Minor, By and Through Her Guardian ad Litem, Nicole Ward, et al., Petitioners v. Coronado Unified School District, et al",0.003,2026-09-28T03:13:29.550598+00:00,a8b36e7a62b20eb3,claude-fable-5,high
+25-1420,"Betty Jo Shelby, Petitioner v. Michael Manning, as Administrator of the Estate of Terence Crutcher, Sr., et al",0.24,2026-09-28T03:13:39.526308+00:00,a887a2b42ea9f5da,claude-fable-5,high
+25-1421,"Christina Casarez, Petitioner v. Irigoyen Farms, Inc., et al",0.85,2026-09-28T03:13:36.922794+00:00,b3a3946008219f98,claude-fable-5,high
+25-1425,"Brian D. Howard, Petitioner v. United States",0.003,2026-09-28T03:13:33.264621+00:00,712ae2a29193a4e4,claude-fable-5,high
+25-1427,"Independent Specialty Insurance Company, Petitioner v. Apex Hospitality Group, L.L.C",0.13,2026-09-28T03:13:43.331672+00:00,53a21f9deeb0a6e3,claude-fable-5,high
+25-1428,"Bradley J. Chilelli, Petitioner v. Signify North America Corporation",0.003,2026-09-28T03:13:34.026268+00:00,1c9b0d62fc41e717,claude-fable-5,high
+25-1431,"DTLD L.L.C., et al., Petitioners v. The Power Station Limited Partnership, et al",0.001,2026-09-28T03:13:37.025031+00:00,fdc736672afc7bdd,claude-fable-5,high
+26-1,"Sunoco, Inc. (R&M), et al., Petitioners v. Perry Cline, Individually and on Behalf of All Others Similarly Situated",0.14,2026-09-28T03:13:44.309579+00:00,5e960d3e0f9d7208,claude-fable-5,high
+26-2,"Independent Specialty Insurance Company, et al., Petitioners v. Lower Cameron Hospital Service District, et al",0.09,2026-09-28T03:13:45.602796+00:00,606a0d109d4bf609,claude-fable-5,high
+26-3,"Stephanie Andrews, et al., Petitioners v. Lands' End, Inc., et al",0.002,2026-09-28T03:13:37.942770+00:00,933c7d04a3dc49f9,claude-fable-5,high
+26-4,"Samsung Electronics America, Inc., Petitioner v. Jordan Brewer",0.09,2026-09-28T03:13:44.455618+00:00,3b4025ef27360d44,claude-fable-5,high
+26-5,"Gwynne A. Wilcox, Petitioner v. Donald J. Trump, President of the United States, et al",0.1,2026-09-28T03:13:47.303072+00:00,594cd90d472b103e,claude-fable-5,high
+26-7,"Capital Security Systems, Inc., Petitioner v. NCR Voyix Corporation",0.002,2026-09-28T03:13:40.955989+00:00,06155b86ef1ebbf2,claude-fable-5,high
+26-10,"Derrick Duane Barker, Petitioner v. City of Weatherford, Oklahoma, ex rel. Weatherford Police Department, et al",0.005,2026-09-28T03:13:41.558200+00:00,846c586c6975525d,claude-fable-5,high
+26-14,"Adan Munoz Renova, Petitioner v. Todd Blanche, Attorney General",,,,,
+26-15,"Gary Perez, et al., Petitioners v. City of San Antonio, Texas",0.22,2026-09-28T03:13:51.458264+00:00,27f7f7257befc724,claude-fable-5,high
+26-17,"Dr. Douglas Schottenstein, et al., Petitioners v. Orthogen International GmbH",0.015,2026-09-28T03:13:47.221370+00:00,090b4392bceca41d,claude-fable-5,high
+26-18,"Gary Westcott, Secretary, Louisiana Department of Public Safety and Corrections, et al., Petitioners v. Voice of the Experienced, et al",0.15,2026-09-28T03:13:50.990873+00:00,af3280cc5f8ac87f,claude-fable-5,high
+26-19,"Allison Nguyen, Petitioner v. Louisiana",0.03,2026-09-28T03:13:48.787846+00:00,8c9345066c534f25,claude-fable-5,high
+26-20,"Amy Arzamendi, et al., Petitioners v. Pete Hegseth, Secretary of Defense, et al",0.015,2026-09-28T03:13:48.973021+00:00,92dc72b5010f130b,claude-fable-5,high
+26-22,"Douglas B. Moylan, Attorney General of Guam, Petitioner v. Guam Society of Obstetrician and Gynecologists, et al",0.04,2026-09-28T03:13:50.858104+00:00,18e3e7a86d7b0dce,claude-fable-5,high
+26-23,"TMX Finance Corporate Services, Incorporated, Petitioner v. Wendy S. Spicher, Secretary, Pennsylvania Department of Banking and Securities",0.07,2026-09-28T03:13:53.964675+00:00,82f78ce4266ca00e,claude-fable-5,high
+26-25,"Lexon Insurance Company, Inc., Petitioner v. Chevron U.S.A. Inc., et al",0.02,2026-09-28T03:13:51.933447+00:00,6be45d7447e90201,claude-fable-5,high
+26-26,"John Miguel Swan, Petitioner v. United States",0.05,2026-09-28T03:13:55.823633+00:00,a26023a48d8ba7ec,claude-fable-5,high
+26-29,"Mead Johnson & Company, LLC, et al., Petitioners v. Clarissa Greear, Individually and on Behalf of Her Minor Child B. H., et al",0.28,2026-09-28T03:14:01.808016+00:00,ffbd878e5d5b3bc3,claude-fable-5,high
+26-30,"Santos Arnulfo Turcios-Berrios, Petitioner v. Todd Blanche, Attorney General",,,,,
+26-31,"William T. Savage, Sr., Petitioner v. LaSalle Management Company, aka LaSalle Correctional Center, et al",0.002,2026-09-28T03:13:52.677873+00:00,a9834c66c07c2cd0,claude-fable-5,high
+26-33,"Keith Raniere, Petitioner v. United States",0.005,2026-09-28T03:13:54.847402+00:00,4e3e4711b74daf49,claude-fable-5,high
+26-35,"Anthony McCord, Petitioner v. Bennie Thorpe, Superintendent, Marcy Correctional Facility, et al",0.008,2026-09-28T03:13:54.624703+00:00,30f19bc00d6ae8c2,claude-fable-5,high
+26-37,"New Mexico, Petitioner v. Samuel Neal",0.06,2026-09-28T03:13:57.385462+00:00,afdcc742cd0ef309,claude-fable-5,high
+26-39,"Wilton Rancheria, Petitioner v. UNITE HERE International Union",0.007,2026-09-28T03:13:56.215805+00:00,4118b7e29b96517e,claude-fable-5,high
+26-43,"Victor Buenrostro-Mendez, et al., Petitioners v. Todd Blanche, Attorney General, et al",,,,,
+26-44,"Minnesota Medical University, LLC, et al., Petitioners v. Heritage Construction Companies, LLC, et al",0.005,2026-09-28T03:13:56.434980+00:00,310364709cbe4ce8,claude-fable-5,high
+26-46,"Nunzio Calce, et al., Petitioners v. City of New York, New York, et al",0.42,2026-09-28T03:14:03.882847+00:00,30028c8b491fc541,claude-fable-5,high
+26-47,"Amazon Logistics, Inc., et al., Petitioners v. Dirk Clinton, et al",0.4,2026-09-28T03:14:06.778846+00:00,9559b8e535e7d4be,claude-fable-5,high
+26-48,"Markwayne Mullin, Secretary, Department of Homeland Security, et al., Petitioners v. National TPS Alliance, et al",0.95,2026-09-28T03:13:58.897512+00:00,226035e77cddb76a,claude-fable-5,high
+26-49,"Brenna Bird, Attorney General of Iowa, Petitioner v. Iowa Migrant Movement for Justice, et al",0.25,2026-09-28T03:14:09.125501+00:00,fbd55e4ee74bb9e0,claude-fable-5,high
+26-50,"Daniel Joseph Tisone, Petitioner v. United States",0.002,2026-09-28T03:14:00.144083+00:00,2ac857bf00bf59cb,claude-fable-5,high
+26-51,"Christopher L. Carroll and Whiskey Dix Big Truck Repair, LLC, Petitioners v. United States",0.005,2026-09-28T03:14:00.254849+00:00,39351b9a7d90faed,claude-fable-5,high
+26-52,"Urve Maggitti, Petitioner v. Pennsylvania",0.004,2026-09-28T03:14:01.064615+00:00,1e846cc659f8c8b6,claude-fable-5,high
+26-54,"Jackson Wells, as Personal Representative for the Estate of Thomas E. Wells, Deceased, et al., Petitioners v. BNSF Railway Company, a Delaware corporation",0.015,2026-09-28T03:14:03.592085+00:00,6116e9c193128dc4,claude-fable-5,high
+26-57,"Mazen Alotaibi, Petitioner v. Nethanjah Breitenbach, Warden, et al",0.015,2026-09-28T03:14:05.865496+00:00,d8cc1bea3db4048a,claude-fable-5,high
+26-59,"John David Peterson, Petitioner v. Nevada County, California, et al",0.003,2026-09-28T03:14:04.284499+00:00,3a75e0b4dd917b6e,claude-fable-5,high
+26-60,"Daniel Defense, LLC, et al., Petitioners v. Karen Lowy, Individually and as Parent and Next Friend of N. T., et al",0.35,2026-09-28T03:14:12.081566+00:00,138854bf7010d529,claude-fable-5,high
+26-61,"Shosh Yonay, et al., Petitioners v. Paramount Pictures Corporation",0.07,2026-09-28T03:14:08.294919+00:00,80ec25a4de6f4eb1,claude-fable-5,high
+26-63,"Anthony M. Clark, Petitioner v. United States",0.05,2026-09-28T03:14:12.334798+00:00,bac5c776462e3cf8,claude-fable-5,high
+26-64,"Scott Williams, Petitioner v. Frank Bisignano, Commissioner of Social Security",,,,,
+26-68,"Juan Martinez, Petitioner v. United States",0.04,2026-09-28T03:14:09.832013+00:00,0d45789a8d7b3996,claude-fable-5,high
+26-69,"Jason Green, Petitioner v. Kenny Perkins, Individually and as a Deputy Sheriff for Adair County Sheriff's Office, et al",0.008,2026-09-28T03:14:08.830356+00:00,2da1f0f811ee284a,claude-fable-5,high
+26-70,"Steven A. McKinnis, Petitioner v. Department of the Interior",0.002,2026-09-28T03:14:09.904330+00:00,3a28bab805a0dd8a,claude-fable-5,high
+26-72,"Euclides Bartolome Bugliotti, et al., Petitioners v. Republic of Argentina",0.01,2026-09-28T03:14:11.052730+00:00,3a029582d00fec7d,claude-fable-5,high
+26-74,"Ric Logg, et al., Petitioners v. TIG Insurance Company",0.002,2026-09-28T03:14:12.468858+00:00,6b8ec2e0963e43a4,claude-fable-5,high
+26-77,"Caesarstone Ltd., Petitioner v. Superior Court of California, Los Angeles County, et al",0.015,2026-09-28T03:14:13.678348+00:00,04464d5a3f784fc2,claude-fable-5,high
+26-79,"Rene Acosta-Tapia, Petitioner v. Todd Blanche, Attorney General",,,,,
+26-84,"Garten Trucking LC, Petitioner v. National Labor Relations Board, et al",0.015,2026-09-28T03:14:13.579915+00:00,fc3b98f7ff937fc1,claude-fable-5,high
+26-86,"Virginia Galindo-Vazquez, et al., Petitioners v. Todd Blanche, Attorney General",,,,,
+26-88,"Alaska Policy Forum, Petitioner v. Alaska Public Offices Commission, et al",0.2,2026-09-28T03:14:17.675385+00:00,c745d57d405b4785,claude-fable-5,high
+26-90,"Leonarda Bautista, Individually and as Parent and Natural Guardian of A. B., Petitioner v. Kamar H. Samuels, Chancellor of the New York City Department of Education, et al",0.002,2026-09-28T03:14:14.124069+00:00,da25c950538d525b,claude-fable-5,high
+26-91,"Richard Stuart Ross, Petitioner v. United States",0.22,2026-09-28T03:14:21.783202+00:00,9b9b5e16902bd83c,claude-fable-5,high
+26-92,"ASAP Cruises, Inc., Petitioner v. Wisconsin Department of Revenue",0.02,2026-09-28T03:14:17.601052+00:00,8e4237307e8a293c,claude-fable-5,high
+26-94,"City of Santa Maria, California, et al., Petitioners v. Adolfo Cardenas",0.12,2026-09-28T03:14:21.204823+00:00,2f9ebfbdb40f7f98,claude-fable-5,high
+26-97,"Ariella Hellman, on Their Own Behalf and as Next Friend of Their Child, E. H., et al., Petitioners v. Katherine Craven, Chair, Massachusetts Board of Elementary and Secondary Education, et al",0.33,2026-09-28T03:14:19.254033+00:00,d7c973bdf5187ab9,claude-fable-5,high
+26-98,"Public Interest Legal Foundation, Inc., Petitioner v. Scott T. Nago, Chief Election Officer of the State of Hawaii",0.27,2026-09-28T03:14:23.029022+00:00,0e4a02a5bb5c2d03,claude-fable-5,high
+26-100,"Shannon Cross, Petitioner v. Central Contra Costa Transit Authority",0.06,2026-09-28T03:14:19.446764+00:00,08f2bd5ee3ebff53,claude-fable-5,high
+26-101,"Randy A. Thomas, Petitioner v. Cynthia Davis, Warden",0.01,2026-09-28T03:14:18.252288+00:00,c4dfd26e3f07c8b1,claude-fable-5,high
+26-104,"Philip L. Rhoney, Acting Director of the Buffalo Field Office of U.S. Immigration and Customs Enforcement, Petitioner v. Ricardo Aparecido Barbosa da Cunha",,,,,
+26-107,"Garnell Walls, Petitioner v. Prince George's County, Maryland, et al",0.18,2026-09-28T03:14:24.854359+00:00,a4495af8660e32d3,claude-fable-5,high
+26-108,"Mark Miller, et al., Petitioners v. City of Burien, et al",0.025,2026-09-28T03:14:22.860281+00:00,7895b1a4cf98251e,claude-fable-5,high
+26-110,"Tedford's Tenancy, LLC, Petitioner v. City of New York, New York, et al",0.08,2026-09-28T03:14:26.170499+00:00,91b3579a4cd7230e,claude-fable-5,high
+26-112,"Neil McDougall, Petitioner v. Saudi Arabian Oil Company, dba Saudi Aramco",0.005,2026-09-28T03:14:23.078628+00:00,5c8f2f43214ff5d2,claude-fable-5,high
+26-114,"Frederick L. Allen, et al., Petitioners v. Joshua Stein, Governor of North Carolina, et al",0.12,2026-09-28T03:14:28.857924+00:00,d1788f47ac1a3a87,claude-fable-5,high
+26-121,"Joseph Basso, Petitioner v. Jose Rodriguez, et al",0.001,2026-09-28T03:14:25.241250+00:00,8cf0499156489c13,claude-fable-5,high
+26-122,"Roy Stewart Moore, Petitioner v. Senate Majority PAC, ""SMP""",0.015,2026-09-28T03:14:26.999682+00:00,2111cff504232ac3,claude-fable-5,high
+26-123,"Debra Nevins, Petitioner v. DCH Health Systems, DCH Health Care Authority, et al",0.001,2026-09-28T03:14:26.630399+00:00,a822e323fb4b3380,claude-fable-5,high
+26-125,"Jose Manuel Mendoza, Petitioner v. United States",0.004,2026-09-28T03:14:26.630835+00:00,f79ef0ec800ef221,claude-fable-5,high
+26-127,"Safron Capital Corporation, et al., Petitioners v. Elanco Animal Health Inc., et al",0.012,2026-09-28T03:14:29.083024+00:00,607a77175a944478,claude-fable-5,high
+26-130,"Teck Metals Ltd., fka Teck Cominco Metals Ltd., a Canadian corporation, Petitioner v. Confederated Tribes of the Colville Reservation",0.42,2026-09-28T03:14:32.045206+00:00,8684c397bb8e460b,claude-fable-5,high
+26-131,"Jonatan O. RosarioMartinez, Petitioner v. United States",0.02,2026-09-28T03:14:31.458914+00:00,9ca84a2fb6f480d4,claude-fable-5,high
+26-134,"Edward S. Phillips, Petitioner v. Matthew Plummer, Warden",0.003,2026-09-28T03:14:30.027224+00:00,704d5a916c147e98,claude-fable-5,high
+26-135,"Antoinette Williams, Petitioner v. LOGS Legal Group, LLP",0.001,2026-09-28T03:14:30.232069+00:00,eb3d19d5a9085013,claude-fable-5,high
+26-138,"Steven T. Savage, et ux., Petitioners v. Coastal Capital, LLC",0.007,2026-09-28T03:14:30.263982+00:00,8a8f87d94a14c0f0,claude-fable-5,high
+26-148,"R. S., a Minor Child, By His Next of Friend and Legal Guardian, V. H., et al., Petitioners v. Susan Hickey, et al",0.005,2026-09-28T03:14:30.695084+00:00,24414a2cc00bd764,claude-fable-5,high
+26-149,"Accord Trucking, Inc., Petitioner v. FedEx Ground Package System, Inc",0.005,2026-09-28T03:14:33.141217+00:00,536d010af507be53,claude-fable-5,high
+26-154,"Angelo L. Cepeda, Petitioner v. United States",0.004,2026-09-28T03:14:32.728766+00:00,fe2c45c24134b4ee,claude-fable-5,high
+26-155,"Okechukwu Dimkpa, Petitioner v. United States",0.03,2026-09-28T03:14:34.205665+00:00,b9df2b9a839bed72,claude-fable-5,high
+26-156,"Springfield R-12 School District, et al., Petitioners v. Brooke Henderson, et al",0.09,2026-09-28T03:14:40.569963+00:00,239c72fa3cceb4e8,claude-fable-5,high
+26-160,"Makhi Brockenborough, Petitioner v. United States",0.003,2026-09-28T03:14:35.304220+00:00,52b338c5a8e2a984,claude-fable-5,high
+26-161,"W. A. Griffin, M.D., Petitioner v. Emory Healthcare, Inc., et al",0.001,2026-09-28T03:14:34.205089+00:00,5fee11820d500686,claude-fable-5,high
+26-162,"Edlando M. Watson, Petitioner v. United States",0.05,2026-09-28T03:14:43.983543+00:00,6c82a4a16a05189f,claude-fable-5,high
+26-164,"A. A., et al., Petitioners v. Joshua Mast, et al",0.3,2026-09-28T03:14:42.896275+00:00,df2bcefe4d8397b4,claude-fable-5,high
+26-166,"John A. Evangelista, Petitioner v. United States",0.002,2026-09-28T03:14:37.541553+00:00,fe812ae829988140,claude-fable-5,high
+26-170,"Federal Express Corporation, Petitioner v. Qualcomm Incorporated, et al",0.06,2026-09-28T03:14:40.004884+00:00,b3ac5d305d1a3d40,claude-fable-5,high
+26-182,"Laura Hendrix, Executive Secretary, Kentucky Judicial Conduct Commission, et al., Petitioners v. Donna Greenwell Dutton, Judge, 53rd Judicial District, Division 2, Kentucky",0.02,2026-09-28T03:14:39.282985+00:00,cd1fab2b8057a61f,claude-fable-5,high
+26-183,"United Airlines, Incorporated, Petitioner v. Genise Kincannon, Individually and on Behalf of All Others Similarly Situated, et al",0.18,2026-09-28T03:14:44.602796+00:00,eb156c89e7585c08,claude-fable-5,high
+26-188,"Dream Big Media, Inc., et al., Petitioners v. Alphabet Inc., et al",0.002,2026-09-28T03:14:39.188730+00:00,ee1da2369fed4723,claude-fable-5,high
+26-190,"Jeffrey R. Owen, Petitioner v. United States",0.07,2026-09-28T03:14:46.848530+00:00,6b9e5ce6ff5b3ec3,claude-fable-5,high
+26-194,"Mei Guo, et al., Petitioners v. Luc A. Despins, Chapter 11 Trustee",0.14,2026-09-28T03:14:48.868122+00:00,3558bff042c2c3a7,claude-fable-5,high
+26-200,"Melissa Suzette Arzu, Individually and as Administrator of the Estate of Kevin Greenidge, Petitioner v. American Airlines, Incorporated",0.04,2026-09-28T03:14:47.459898+00:00,dba066b101126ae0,claude-fable-5,high
+26-206,"Lisa Ferraro, Petitioner v. United States",0.007,2026-09-28T03:14:44.559720+00:00,e3dd6a7c74e855cc,claude-fable-5,high
+26-211,"Kimberly Vaughn as Administrator of the Estate of Mohammad J. Isaifan, Deceased, Petitioner v. Jamie Rea, et al",0.01,2026-09-28T03:14:45.661754+00:00,fcbc1797d258bbbe,claude-fable-5,high
+26-215,"D. C., By His Parents and Guardians, Trevor Chaplick and Vivian Chaplick, et al., Petitioners v. Fairfax County School Board, et al",0.1,2026-09-28T03:14:49.881418+00:00,f4a81feaf0f2aa03,claude-fable-5,high
+26-219,"Jaelen M. Johnson, Petitioner v. United States",0.02,2026-09-28T03:14:48.394260+00:00,601b776d1799d001,claude-fable-5,high
+26-222,"Cup Foods, Inc., et al., Petitioners v. City of Minneapolis, Minnesota, et al",0.025,2026-09-28T03:14:49.517184+00:00,47e426be924af8bf,claude-fable-5,high
+26-231,"Mario Delaine, Petitioner v. United States",0.35,2026-09-28T03:14:53.000057+00:00,eed79cf1fa24432f,claude-fable-5,high
+26-234,"Johnny Ford, Petitioner v. Florida",0.015,2026-09-28T03:14:50.214113+00:00,88ede972013002cd,claude-fable-5,high
+26-236,"US Patent No. 7,679,637 LLC, Petitioner v. Google LLC",0.01,2026-09-28T03:14:51.500362+00:00,723906ed8fa3f2af,claude-fable-5,high
+26-238,"Broadcast Music, Inc., Petitioner v. North American Concert Promoters Association",0.09,2026-09-28T03:14:56.121650+00:00,4f6cfb1ba0d70d10,claude-fable-5,high
+26-244,"The Kroger Co., dba Fred Meyer, Inc., Petitioner v. Elisha Solano, Individually and on Behalf of Other Customers, et al",0.35,2026-09-28T03:14:58.951946+00:00,22073c2ffe6e70ff,claude-fable-5,high
+26-255,"Jeffrey M. Johnson, Sr., Petitioner v. Bob Jacobson, Commissioner, Minnesota Department of Public Safety",0.03,2026-09-28T03:14:53.152888+00:00,60e91e8f8ed2a73d,claude-fable-5,high
+26-268,"Michael Brock, et al., Petitioners v. City of Bellingham, Washington, et al",0.004,2026-09-28T03:14:53.460823+00:00,cf0299d4c752bbef,claude-fable-5,high
+26-275,"Adam McLean, et al., Petitioners v. Delta Air Lines, Inc., a Delaware Corporation",0.035,2026-09-28T03:14:55.735743+00:00,f38f47bc9be9b921,claude-fable-5,high
